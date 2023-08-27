@@ -1,0 +1,13 @@
+OpenAI-Gym/
+
+# latex related
+*.aux
+*.log
+*.lof
+*.lot
+*.out
+*.gz
+*.toc
+*.bbl
+*.blg
+*.brf
