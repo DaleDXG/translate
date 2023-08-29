@@ -14,7 +14,7 @@ xx是xx
 
 系动词  
 一般是be动词，表示“是”
-|人称||主语|系动词|
+|人称|中文|人称代词|系动词|
 |---|---|---|---|
 |单人||||
 |第一人称|我|I|am|
@@ -31,6 +31,8 @@ xx是xx
 
 我xx岁了（我44岁了）  
 I am forty four years old.  
+
+<div STYLE="page-break-after: always;"></div>
 
 数字
 ||0-9|10-19|20|20-90|
@@ -93,6 +95,7 @@ I am going to eat noodles tonight.
 ### 时态（本节仅作了解）
 根据句子的动作发生的时间，会对时态作出调整
 
+#### 一般过去时
 动作发生在过去，用过去时  
 将句子的动词，调整成过去时态  
 eat -> ate  
@@ -100,6 +103,7 @@ eat -> ate
 I bought a watch last year.  
 buy -> bought  
 
+#### 一般现在时
 句子的动作，是一种普遍状态，用一般现在时  
 最基本的形态，没有变化  
 我喜欢吃炒猪肉  
@@ -107,11 +111,13 @@ I like (to eat) (stir) fried pork
 地球是圆的  
 The earth is round.
 
+#### 现在进行时
 动作发生在此时此刻，用现在进行时  
 在动词前加 be 动词，并在动词后 +ing （通常是直接在动词后加 -ing，但有时为了发音方便或其他原因，会略作变形）  
 我正在开车  
 I am driving right now.
 
+#### 一般将来时
 动作发生在将来，用一般将来时  
 在动词前加：
 - will
@@ -150,7 +156,10 @@ Hurry up, I am waiting.
 完成时强调动作已经做完了  
 比如，父亲9点回家，问孩子“作业做完了吗？”  
 我7点就已经把作业做完了（过去完成时）  
-I had already finished my homework by 7pm.
+I had already finished my homework by 7pm.  
+将来进行时的例子，对未来的想象  
+下班之后，7点我会在沙发上边喝啤酒边看电影  
+After work, at 7pm, I will be having beer and watching movie in my sofa.
 
 虽然我们不能在此节列举太多的动词时态变化，但可以列举一下 be 动词的原型，现在和过去式，通常的动词原型和一般现在时没有变形，但 be 动词有些特殊  
 |原型|现在|过去式|
@@ -158,3 +167,14 @@ I had already finished my homework by 7pm.
 |be|am|was|
 ||is|were|
 ||are|was|
+
+人称代词
+||主格|宾格|形容词性物主代词|名词性物主代词|反身代词|
+|---|---|---|---|---|---|
+|我|I|me|my|mine|myself|
+|你（们）|you|you|your|yours|yourself / yourselves|
+|他|he|him|his|his|himself|
+|她|she|her|her|hers|herself|
+|它|it|it|its|its|itself|
+|我们|we|us|our|ours|ourselves|
+|他们|they|them|their|theirs|themselves|
