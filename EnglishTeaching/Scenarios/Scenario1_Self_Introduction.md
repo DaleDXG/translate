@@ -88,7 +88,7 @@ I come from China.
 我早上吃的米饭  
 I ate rice this morning.  
 我喜欢米饭  
-I like rice.
+I like rice.  
 我晚上想吃面条  
 I am going to eat noodles tonight.  
 
@@ -109,7 +109,7 @@ buy -> bought
 我喜欢吃炒猪肉  
 I like (to eat) (stir) fried pork  
 地球是圆的  
-The earth is round.
+The earth is round.  
 
 #### 现在进行时
 动作发生在此时此刻，用现在进行时  
@@ -159,7 +159,7 @@ Hurry up, I am waiting.
 I had already finished my homework by 7pm.  
 将来进行时的例子，对未来的想象  
 下班之后，7点我会在沙发上边喝啤酒边看电影  
-After work, at 7pm, I will be having beer and watching movie in my sofa.
+After work, at 7pm, I will be having beer and watching movie in my sofa.  
 
 虽然我们不能在此节列举太多的动词时态变化，但可以列举一下 be 动词的原型，现在和过去式，通常的动词原型和一般现在时没有变形，但 be 动词有些特殊  
 |原型|现在|过去式|
